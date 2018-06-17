@@ -1,8 +1,5 @@
----
-title: "My first post"
+title: My first post
 date: 2018-06-17
----
-title: Your awesome title
 author: Thomas Naderhirn
 email: thomas.naderhirn@domain.com
 description: > # this means to ignore newlines until "baseurl:"
